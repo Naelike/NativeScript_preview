@@ -7,7 +7,7 @@ NativeScript_preview, $ ns. preview / Native power without native overhead Insta
 :+1: Web Nativescript Preview:  <https://preview.nativescript.org/> ..!
 
 # NS Preview 
-Run in your local environment
+Run in your local environment / Already have a local node development environment you are familiar with?
 <img class="rounded" src="https://preview.nativescript.org/assets/vscode_screenshot-7827d88c.png" width="100%" alt="NaeLike"> 
 ```
 # 1. Install the NativeScript CLI

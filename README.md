@@ -6,6 +6,18 @@ NativeScript_preview, $ ns. preview / Native power without native overhead Insta
 <br>
 :+1: Web Nativescript Preview:  <https://preview.nativescript.org/> ..!
 
+# NS Preview 
+Run in your local environment
+<img class="rounded" src="https://preview.nativescript.org/assets/vscode_screenshot-7827d88c.png" width="100%" alt="NaeLike"> 
+```
+# 1. Install the NativeScript CLI
+npm install -g nativescript
+# 2. (Optional) Create a new project or use an existing one
+ns create
+# 3. Preview away!
+ns preview
+```
+
 # Nativescript App Preview
 Produces a QR code which can be used to preview the app on a device without the need to install various SDKs and tools or configure your environment for local iOS or Android development.
 To scan the QR code and deploy your app on a device, you need to have the NativeScript Playground app:

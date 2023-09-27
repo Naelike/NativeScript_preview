@@ -2,9 +2,42 @@
 NativeScript_preview, $ ns. preview / Native power without native overhead Install NativeScript Preview and start developing mobile apps with only one additional dependency. A browser.
 
 # Nativescript 
+:+1: Web Note.JS :  <https://nodejs.org/en> ..! 
+<br>
 :+1: Web Nativescript :  <https://nativescript.org/> ..! 
 <br>
 :+1: Web Nativescript Preview:  <https://preview.nativescript.org/> ..!
+
+# Install the NativeScript CLI
+Open your terminal or command prompt and execute the following command to install the NativeScript CLI from npm, which is the Node.js package manager:
+```
+npm install -g nativescript
+```
+
+# Create a new NativeScript Vue application
+Interactively creates a new NativeScript app based on a predefined template.
+<br>
+```
+TEMPLATE	SYNOPSIS
+JavaScript based	$ ns create [<App Name>] [--js] [--path <Directory>] [--appid <App ID>]
+TypeScript based	$ ns create [<App Name>] --ts [--path <Directory>] [--appid <App ID>]
+Angular based	$ ns create [<App Name>] --ng [--path <Directory>] [--appid <App ID>]
+Vue.js based	$ ns create [<App Name>] --vue [--path <Directory>] [--appid <App ID>]
+Custom template	$ ns create [<App Name>] [--path <Directory>] [--appid <App ID>] --template <Template>
+```
+
+<br>
+To create a new NativeScript Vue application, run the CLI command ns create with the name of the application followed by --vue and --ts.
+
+```
+# Create
+ns create example-app --vue --ts
+# Run the application cd example-app
+// run on iOS
+ns run ios
+// run on Android
+ns run android
+```
 
 # NS Preview 
 Run in your local environment / Already have a local node development environment you are familiar with?

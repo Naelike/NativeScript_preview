@@ -3,17 +3,20 @@ NativeScript_preview, $ ns. preview / Native power without native overhead Insta
 
 # Nativescript 
 :+1: Web Nativescript :  <https://nativescript.org/> ..! 
+<br>
 :+1: Web Nativescript Preview:  <https://preview.nativescript.org/> ..!
 
 # Nativescript App Preview
 Produces a QR code which can be used to preview the app on a device without the need to install various SDKs and tools or configure your environment for local iOS or Android development.
 To scan the QR code and deploy your app on a device, you need to have the NativeScript Playground app:
+<br>
 :+1: App Store (iOS):  <https://itunes.apple.com/us/app/nativescript-playground/id1263543946?mt=8&ls=1> ..!
+<br>
 :+1: Google Play (Android):  <https://play.google.com/store/apps/details?id=org.nativescript.play> ..!
 
 # Developer : NaeLike เนไลก์
 
-<img class="rounded" src="https://www.naelike.com/assets/upload/logo/logo-text-1.png" width="120" alt="NaeLike"> 
+<img class="rounded" src="https://www.naelike.com/assets/upload/logo/logo-text-1.png" width="320" alt="NaeLike"> 
 
 > Naelike เนไลก์
 

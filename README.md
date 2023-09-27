@@ -1,12 +1,16 @@
-<img class="rounded" src="https://art.nativescript.org/logo/export/NativeScript_Logo_Blue_Transparent.svg" width="250" alt="NaeLike"> 
+<img class="rounded" src="https://raw.githubusercontent.com/NativeScript/artwork/main/logo/export/NativeScript_Logo_Wide_White_Blue_Rounded_Blue.png" width="250" alt="NaeLike"> 
+<br>
+<img class="rounded" src="https://repository-images.githubusercontent.com/31492490/3d8b1880-5fd9-11eb-98a8-74e4ede795ae" width="100%" alt="NaeLike"> 
 
 # NativeScript_preview
 NativeScript_preview, $ ns. preview / Native power without native overhead Install NativeScript Preview and start developing mobile apps with only one additional dependency. A browser.
 
 # Nativescript 
-:+1: Web Note.JS :  <https://nodejs.org/en> ..! 
+:+1: Web Note.JS:  <https://nodejs.org/en> ..! 
 <br>
-:+1: Web Nativescript :  <https://nativescript.org/> ..! 
+:+1: Web Nativescript:  <https://nativescript.org/> ..! 
+<br>
+:+1: Web Nativescript Plugins:  <https://market.nativescript.org/?tab=templates&category=all_templates> ..! 
 <br>
 :+1: Web Nativescript Preview:  <https://preview.nativescript.org/> ..!
 

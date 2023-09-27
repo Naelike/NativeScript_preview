@@ -3,7 +3,7 @@ NativeScript_preview, $ ns. preview / Native power without native overhead Insta
 
 # Developer : NaeLike เนไลก์
 
-<img class="rounded" src="http://img.in.th/images/c938fdabdf2a1d4b2deda8ffea4fa189.jpg" width="120" alt="NaeLike"> 
+<img class="rounded" src="https://www.naelike.com/assets/upload/logo/logo-text-1.png" width="120" alt="NaeLike"> 
 
 > Naelike เนไลก์
 

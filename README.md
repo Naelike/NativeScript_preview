@@ -1,3 +1,5 @@
+<img class="rounded" src="https://art.nativescript.org/logo/export/NativeScript_Logo_Blue_Transparent.svg" width="250" alt="NaeLike"> 
+
 # NativeScript_preview
 NativeScript_preview, $ ns. preview / Native power without native overhead Install NativeScript Preview and start developing mobile apps with only one additional dependency. A browser.
 
@@ -22,12 +24,16 @@ Interactively creates a new NativeScript app based on a predefined template.
 
 # JavaScript based
 $ ns create [<App Name>] [--js] [--path <Directory>] [--appid <App ID>]
+
 # TypeScript based
 $ ns create [<App Name>] --ts [--path <Directory>] [--appid <App ID>]
+
 # Angular based
 $ ns create [<App Name>] --ng [--path <Directory>] [--appid <App ID>]
+
 # Vue.js based
 $ ns create [<App Name>] --vue [--path <Directory>] [--appid <App ID>]
+
 # Custom template
 $ ns create [<App Name>] [--path <Directory>] [--appid <App ID>] --template <Template>
 ```

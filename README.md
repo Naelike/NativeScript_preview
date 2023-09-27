@@ -16,7 +16,7 @@ To scan the QR code and deploy your app on a device, you need to have the Native
 
 # Developer : NaeLike เนไลก์
 
-<img class="rounded" src="https://www.naelike.com/assets/upload/logo/logo-text-1.png" width="320" alt="NaeLike"> 
+<img class="rounded" src="https://www.naelike.com/assets/upload/logo/logo-text-1.png" width="260" alt="NaeLike"> 
 
 > Naelike เนไลก์
 

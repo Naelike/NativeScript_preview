@@ -18,12 +18,18 @@ npm install -g nativescript
 Interactively creates a new NativeScript app based on a predefined template.
 <br>
 ```
-TEMPLATE	SYNOPSIS
-JavaScript based	$ ns create [<App Name>] [--js] [--path <Directory>] [--appid <App ID>]
-TypeScript based	$ ns create [<App Name>] --ts [--path <Directory>] [--appid <App ID>]
-Angular based	$ ns create [<App Name>] --ng [--path <Directory>] [--appid <App ID>]
-Vue.js based	$ ns create [<App Name>] --vue [--path <Directory>] [--appid <App ID>]
-Custom template	$ ns create [<App Name>] [--path <Directory>] [--appid <App ID>] --template <Template>
+# TEMPLATE	SYNOPSIS
+
+# JavaScript based
+$ ns create [<App Name>] [--js] [--path <Directory>] [--appid <App ID>]
+# TypeScript based
+$ ns create [<App Name>] --ts [--path <Directory>] [--appid <App ID>]
+# Angular based
+$ ns create [<App Name>] --ng [--path <Directory>] [--appid <App ID>]
+# Vue.js based
+$ ns create [<App Name>] --vue [--path <Directory>] [--appid <App ID>]
+# Custom template
+$ ns create [<App Name>] [--path <Directory>] [--appid <App ID>] --template <Template>
 ```
 
 <br>
@@ -31,12 +37,11 @@ To create a new NativeScript Vue application, run the CLI command ns create with
 
 ```
 # Create
-ns create example-app --vue --ts
+$ ns create example-app --vue --ts
+
 # Run the application cd example-app
-// run on iOS
-ns run ios
-// run on Android
-ns run android
+$ ns run ios
+$ ns run android
 ```
 
 # NS Preview 
@@ -44,11 +49,11 @@ Run in your local environment / Already have a local node development environmen
 <img class="rounded" src="https://preview.nativescript.org/assets/vscode_screenshot-7827d88c.png" width="100%" alt="NaeLike"> 
 ```
 # 1. Install the NativeScript CLI
-npm install -g nativescript
+$ npm install -g nativescript
 # 2. (Optional) Create a new project or use an existing one
-ns create
+$ ns create
 # 3. Preview away!
-ns preview
+$ ns preview
 ```
 
 # Nativescript App Preview

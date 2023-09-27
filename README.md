@@ -39,6 +39,7 @@ $ ns create [<App Name>] [--path <Directory>] [--appid <App ID>] --template <Tem
 ```
 
 <br>
+<img class="rounded" src="https://art.nativescript-vue.org/NativeScript-Vue-Green-White.svg" width="250" alt="NaeLike"> 
 To create a new NativeScript Vue application, run the CLI command ns create with the name of the application followed by --vue and --ts.
 
 ```
@@ -52,12 +53,15 @@ $ ns run android
 
 # NS Preview 
 Run in your local environment / Already have a local node development environment you are familiar with?
+:+1: Web Nativescript Vue:  <https://nativescript-vue.org/> ..!
 <img class="rounded" src="https://preview.nativescript.org/assets/vscode_screenshot-7827d88c.png" width="100%" alt="NaeLike"> 
 ```
 # 1. Install the NativeScript CLI
 $ npm install -g nativescript
+
 # 2. (Optional) Create a new project or use an existing one
 $ ns create
+
 # 3. Preview away!
 $ ns preview
 ```
